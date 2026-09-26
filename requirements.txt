@@ -1,0 +1,4 @@
+# Optional: Windows 11 look and automatic light/dark detection.
+# The app runs without these.
+sv-ttk
+darkdetect
