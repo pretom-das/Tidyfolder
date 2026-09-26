@@ -28,8 +28,8 @@ Built with Python and Tkinter, in a single file with no required dependencies.
 You need **Python 3.8 or newer**.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/pretom-das/Tidyfolder
+cd Tidyfolder
 ```
 
 Optional, but recommended on Windows for the Windows 11 look and automatic theme detection:
@@ -147,4 +147,4 @@ Issues and pull requests are welcome. If you report a bug, please include your o
 ## License
 
 <!-- Choose a license before publishing, e.g. MIT: https://choosealicense.com/licenses/mit/ -->
-This project is licensed under the [LICENSE NAME] — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT — see the [LICENSE](LICENSE) file for details.
